@@ -1,0 +1,83 @@
+/* Write your CSS here */
+
+.team-matches-container {
+  padding: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rcb {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+}
+
+.kkr {
+  background-image: linear-gradient(to top, #1e293b, #5755a7);
+}
+
+.kxp {
+  background-image: linear-gradient(to top, #1e293b, #d91c1f);
+}
+
+.csk {
+  background-image: linear-gradient(to top, #1e293b, #f7db00);
+}
+
+.rr {
+  background-image: linear-gradient(to top, #1e293b, #da237b);
+}
+
+mi {
+  background-image: linear-gradient(to top, #1e293b, #13418b);
+}
+
+.srh {
+  background-image: linear-gradient(to top, #1e293b, #f26d22);
+}
+
+.dc {
+  background-image: linear-gradient(to top, #1e293b, #4f5db0);
+}
+
+.team-banner-img {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.latestmatch-list-container {
+  list-style-type: none;
+  padding: 0px;
+  width: 90%;
+
+  margin: 0px;
+}
+
+.matchcard-list-container {
+  list-style-type: none;
+  padding: 0px;
+  width: 90%;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  margin: 0px;
+}
+
+.paragraph91 {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  font-size: 24px;
+}
+
+.loader-container {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

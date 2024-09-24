@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.matchcard-list {
+  background-color: #0f172a;
+  padding: 10px;
+  width: 200px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  border: none;
+  border-radius: 20px;
+
+  margin: 10px;
+}
+
+.competing-team-logo-img {
+  height: 100px;
+  width: 100px;
+
+  margin-top: 20px;
+}
+
+.heading41 {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+
+.paragraph51 {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+
+.green-font {
+  color: #18ed66;
+  font-size: 20px;
+  font-family: 'Bree Serif';
+}
+
+red-font {
+  color: #e31a1a;
+  font-size: 20px;
+  font-family: 'Bree Serif';
+}
